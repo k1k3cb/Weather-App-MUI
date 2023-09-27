@@ -1,11 +1,11 @@
 # Weather App MUI
 
-![Imagen del proyecto](https://github.com/k1k3cb/Social-Network-MUI/blob/main/public/screenShoots/img1.png)
+![Imagen del proyecto](https://github.com/k1k3cb/Weather-App-MUI/blob/main/public/screenShoots/img1.png)
 
 ## Ejemplo en vivo
  
 
-- [Enlace al proyecto](https://social-network-mui.onrender.com/)
+- [Enlace al proyecto](https://weather-app-mui.onrender.com/)
 
 
 ## Descripción 📑
@@ -36,9 +36,8 @@ El uso de  [Material UI](https://mui.com/) y se la API de [Weather API](https://
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/k1k3cb/Social-Network-MUI/blob/main/public/screenShoots/img2.png)
+![Captura del proyecto](https://github.com/k1k3cb/Weather-App-MUI/blob/main/public/screenShoots/img2.png)
 
-![Captura del proyecto](https://github.com/k1k3cb/Social-Network-MUI/blob/main/public/screenShoots/img3.png)
 
 
 

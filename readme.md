@@ -10,13 +10,13 @@
 
 ## Descripción 📑
 
-Desarrollo del una web para consultar el tiempo que hace en la ciudad buscada, utilizando React y Material UI.
+Desarrollo de una web para consultar el tiempo que hace en la ciudad buscada, utilizando React y Material UI.
 
 
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-El uso de  [Material UI](https://mui.com/) y se la API de [Weather API](https://www.weatherapi.com/).
+El uso de  [Material UI](https://mui.com/) y de la API de [Weather API](https://www.weatherapi.com/).
 
 ## Tecnologías 🛠
 
